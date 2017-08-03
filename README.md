@@ -1,4 +1,4 @@
-# Image_Batch_downlower
+# 简易爬虫
 
 依赖： PhantomJS和Selenium
 
